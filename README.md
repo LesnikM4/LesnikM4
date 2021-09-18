@@ -1,5 +1,5 @@
-Hi, I’m @LesnikM4 (lesnikm4@gmail.com)
+Hi, I’m Sergei Lesnikov (LesnikM4).
 
-I’m currently learning bash and command line tools
+Email for communication lesnikm4@gmail.com
 
-I do it "just for fun", until
+I’m currently learning bash and command line tools.
